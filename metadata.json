@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix PAY-SAT",
+  "description": "A professional financial dashboard with automatic Excel-like formatting, interactive slicers, dynamic charts, and Gemini-powered data analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
